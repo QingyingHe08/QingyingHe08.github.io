@@ -1,13 +1,9 @@
 ---
 permalink: /teaching/
 title: "Teaching and Advising Experience"
-modified: 2025-08-13
+author_profile: true
 ---
 
-{% include base_path %}
-{% include toc %}
-
-Teaching Assistant
 
 At The Hong Kong Polytechnic University, 2022-
 -------
