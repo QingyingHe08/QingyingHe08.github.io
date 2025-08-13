@@ -13,7 +13,7 @@ Qingying He is currently a PhD candidate (expected to graduate in Dec 2025) at t
 Public Publication Profiles: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=11CRxAIAAAAJ), [ORCID](https://orcid.org/0000-0002-2610-2203).
  
 
-Research Interest
+Research Interests
 ======
 - Transportation Network Modeling and Optimization
 - Low-altitude Mobility and Public Service Network Design
