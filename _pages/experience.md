@@ -16,7 +16,7 @@ Education
 * BSc. in Mathematics and Applied Mathematics, Northeastern University, 2018
 
 
-Selected Awards
+Selected Awards and Honors
 ======
 * Winner, Best Paper Award: The 16th International Workshop on Computational Transportation Science (CTS 2025), 2025
 * Finalist, HKSTS–ATRS Best Student Paper Award: The 28th Air Transport Research Society World Conference, 2025
