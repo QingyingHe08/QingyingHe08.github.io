@@ -14,7 +14,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=11CRxAIAAAAJ), [ORCID](https://orcid.org/0000-0002-2610-2203).
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=11CRxAIAAAAJ), [ORCID](https://orcid.org/0000-0002-2610-2203).
  
 
 
