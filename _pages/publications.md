@@ -45,5 +45,4 @@ Peer-Reviewed Conference Papers
 * [3] **He, Q.**, Liu, W. (2025) Robust vehicle path planning for maritime monitoring under travel time uncertainty. The 15th POMS-HK International Conference, Hong Kong, China, 3–5, Jan, 2025.
 * [4] **He, Q.**, Liu, W. (2024) Multi-service electric fleet management for rides, parcel deliveries, and vehicle-to-grid services. The 28th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, China, 9–10, December, 2024.
 * [5] **He, Q.**, Liu, W. (2023) Unmanned aerial and surface vehicles path coordination for maritime surveillance applications. The 27th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, China, 11–12 December, 2023.
-* [6] **He, Q.**, Ma, M., Li, C., Liu, W. (2022) Learning and managing stochastic network traffic dynamics: a digital twin based approach. The 26th International Conference of Hong Kong
-Society for Transportation Studies (HKSTS), Hong Kong, China, 12–13, December, 2022.
+* [6] **He, Q.**, Ma, M., Li, C., Liu, W. (2022) Learning and managing stochastic network traffic dynamics: a digital twin based approach. The 26th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, China, 12–13, December, 2022.
