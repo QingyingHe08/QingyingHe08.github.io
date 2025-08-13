@@ -28,6 +28,22 @@ Journal Publication
 
 
 
-Selected Working Papers
+Papers Under Review and Working Papers
 -------
+* [6] **He, Q.**, Liu, W.∗, Wu, L., Ma, Y., Liang, Z. Coordinated path planning of unmanned aerial vehicles and unmanned surface vehicles for maritime monitoring. Transportation Science, under review.
+* [5] **He, Q.**, Liu, W., Ye, H., Ma, Y. Real-time coordinated path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring under travel time and demand uncertainty. Transportation Research Part B: Methodological, to be submitted.
+* [4] **He, Q.**, Liu, W. Sharing low-altitude urban airspace through a capacity-aware and incentive-compatible allocation mechanism for UAV operations. Proceedings of the National Academy of Sciences, to be submitted.
+* [3] **He, Q.**, Liu, W. Public service network design for coordinated operations of unmanned aerial, surface, and ground vehicles under demand uncertainty. working paper.
+* [2] **He, Q.**, Liu, W. Dynamic optimization for coordinated unmanned aerial vehicles and autonomous ground vehicle operations for on-demand delivery. working paper.
+* [1] Lyu, M., Liu, W., **He, Q.**, Wu, L. Urban food delivery service optimisation with coordinated delivery riders and drones. Transportation Research Part E: Logistics and Transportation Review, under review.
 
+
+Peer-reviewed Conference Papers
+-------
+* [1] **He, Q.**, Liu, W., Liu, T.-L., Tian, Q. (2025) Robust coordinated path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring with travel time uncertainty. The 16th Workshop on Computational Transportation Science, Wuhan, China, July 25–27, 2025. (**Winner of CTS 2025 Best Paper Award**)
+* [2] **He, Q.**, Liu, W. (2025) Real-time robust path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring. The 28th Air Transport Research Society World Conference (ATRS), Hong Kong, 30 June–4 July, 2025. (**Finalist of HKSTS-ATRS Best Paper Award**)
+* [3] **He, Q.**, Liu, W. (2025) Robust vehicle path planning for maritime monitoring under travel time uncertainty. The 15th POMS-HK International Conference, Hong Kong, China, 3–5, Jan, 2025.
+* [4] **He, Q.**, Liu, W. (2024) Multi-service electric fleet management for rides, parcel deliveries, and vehicle-to-grid services. The 28th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, China, 9–10, December, 2024.
+* [5] **He, Q.**, Liu, W. (2023) Unmanned aerial and surface vehicles path coordination for maritime surveillance applications. The 27th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, China, 11–12 December, 2023.
+* [6] **He, Q.**, Ma, M., Li, C., Liu, W.∗ (2022) Learning and managing stochastic network traffic dynamics: a digital twin based approach. The 26th International Conference of Hong Kong
+Society for Transportation Studies (HKSTS), Hong Kong, China, 12–13, December, 2022.
