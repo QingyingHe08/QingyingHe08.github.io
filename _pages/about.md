@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Biography"
 excerpt: "Qingying He Biography"
 author_profile: true
 redirect_from: 
