@@ -38,7 +38,7 @@ Papers Under Review and Working Papers
 * [1] Lyu, M., Liu, W., **He, Q.**, Wu, L. Urban food delivery service optimisation with coordinated delivery riders and drones. Transportation Research Part E: Logistics and Transportation Review, under review.
 
 
-Peer-reviewed Conference Papers
+Peer-Reviewed Conference Papers
 -------
 * [1] **He, Q.**, Liu, W., Liu, T.-L., Tian, Q. (2025) Robust coordinated path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring with travel time uncertainty. The 16th Workshop on Computational Transportation Science, Wuhan, China, July 25–27, 2025. (**Winner of CTS 2025 Best Paper Award**)
 * [2] **He, Q.**, Liu, W. (2025) Real-time robust path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring. The 28th Air Transport Research Society World Conference (ATRS), Hong Kong, 30 June–4 July, 2025. (**Finalist of HKSTS-ATRS Best Paper Award**)
