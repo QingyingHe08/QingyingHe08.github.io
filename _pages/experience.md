@@ -15,7 +15,6 @@ Education
 * MSc. in Computational Mathematical Finance, The University of Edinburgh, 2019
 * BSc. in Mathematics and Applied Mathematics, Northeastern University, 2018
 
-
 Selected Awards and Honors
 ======
 * Winner, Best Paper Award: The 16th International Workshop on Computational Transportation Science (CTS 2025), 2025
@@ -23,13 +22,6 @@ Selected Awards and Honors
 * MSc Dissertation (awarded with distinction): Passive and Competitive Investment strategies, supervised by Prof. Gonçalo dos Reis, The University of Edinburgh, 2019
 * Postgraduate Scholarship (four consecutive years), The Hong Kong Polytechnic University, 2022-2026
 
-Skills 
-=====
-* Programming: Python, C++, C#, Java, Matlab, SQL
-* Optimization/Machine learning: Gurobi, Tensorflow, Pytorch, CPLEX
-* Professional Qualifications: CFA level I
-* Mathematical Modeling: Optimization modeling, Derivatives pricing, time-series analysis, High-frequency trading strategy development
-  
 Service
 ======
 **Paper Review**
@@ -39,3 +31,10 @@ Service
 **Academic Event Coordination**
 * Coordinated regular group research seminars within the department
 * Organized collaborative workshops with other institutions, including the University of Hong Kong (HKU) and Tongji University
+
+Skills 
+=====
+* Programming: Python, C++, C#, Java, Matlab, R, SQL, Mathematica
+* Optimization/Machine learning: Gurobi, Tensorflow, Pytorch, CPLEX
+* Professional Qualifications: CFA level I
+* Mathematical Modeling and Analysis: Optimization modeling, Stochastic analysis of dynamic and uncertain environments, Quantitative modeling for market microstructure analysis
