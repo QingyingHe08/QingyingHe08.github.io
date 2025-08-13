@@ -18,3 +18,11 @@ Research Interest
 - Transportation Network Modeling and Optimization
 - Low-altitude Mobility and Public Service Network Design
 - Electrified and Shared Mobility Systems
+
+
+Selected Publications
+====
+* [3] **He, Q.**, Liu, W., Liu, T.L., Tian, Q. (2025) Robust coordinated path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring with travel time uncertainty. **Transportation Research Part B: Methodological**, 199, 103284. ([Download](https://doi.org/10.1016/j.trb.2025.103284))
+* [2] **He, Q.**, Liu, W., Xi, H. (2025) Dynamic electric vehicle fleets management problem for multi-service platforms with integrated ride-hailing, on-time delivery, and vehicle-to-grid services. **Transportation Research Part B: Methodological**, 199, 103281. ([Download](https://doi.org/10.1016/j.trb.2025.103281))
+* [1] Waller, S.T., **He, Q.**, Liu, W. (2025) Rapid post-disruption assessment of transportation network capacity and demand distribution under limited information. **Transportation Research Part B: Methodological**, 195, 103194. ([Download](https://doi.org/10.1016/j.trb.2025.103194)) 
+
