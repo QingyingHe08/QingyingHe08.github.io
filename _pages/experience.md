@@ -23,13 +23,18 @@ Selected Awards
 * MSc Dissertation (awarded with distinction): Passive and Competitive Investment strategies, supervised by Prof. Gonçalo dos Reis, The University of Edinburgh, 2019
 * Postgraduate Scholarship (four consecutive years), The Hong Kong Polytechnic University, 2022-2026
 
+Skills 
+=====
+* Programming: Python, C++, C#, Java, Matlab, SQL
+* Optimization/Machine learning: Gurobi, Tensorflow, Pytorch, CPLEX
+* Professional Qualifications: CFA level I
+* Mathematical Modeling: Optimization modeling, Derivatives pricing, time-series analysis, High-frequency trading strategy development
   
 Service
 ======
 **Paper Review**
 * Journal Reviewer: Subreviewer for Transportation Research Part B/D, Transportmetrica B
-* Conference Reviewer: International Conference of Transportation Professionals (CI-
-CTP), International Symposium on Transport Network Resilience (INSTR)
+* Conference Reviewer: International Conference of Transportation Professionals (CICTP), International Symposium on Transport Network Resilience (INSTR)
 
 **Academic Event Coordination**
 * Coordinated regular group research seminars within the department
