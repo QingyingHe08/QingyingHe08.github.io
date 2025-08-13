@@ -27,11 +27,11 @@ Selected Awards
 Service
 ======
 **Paper Review**
-– Journal Reviewer: Subreviewer for Transportation Research Part B/D, Transportmetrica B
-– Conference Reviewer: International Conference of Transportation Professionals (CI-
+* Journal Reviewer: Subreviewer for Transportation Research Part B/D, Transportmetrica B
+* Conference Reviewer: International Conference of Transportation Professionals (CI-
 CTP), International Symposium on Transport Network Resilience (INSTR)
 
 **Academic Event Coordination**
-– Coordinated regular group research seminars within the department
-– Organized collaborative workshops with other institutions, including the University
+* Coordinated regular group research seminars within the department
+* Organized collaborative workshops with other institutions, including the University
 of Hong Kong (HKU) and Tongji University
