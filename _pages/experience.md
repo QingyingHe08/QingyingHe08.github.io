@@ -33,5 +33,4 @@ CTP), International Symposium on Transport Network Resilience (INSTR)
 
 **Academic Event Coordination**
 * Coordinated regular group research seminars within the department
-* Organized collaborative workshops with other institutions, including the University
-of Hong Kong (HKU) and Tongji University
+* Organized collaborative workshops with other institutions, including the University of Hong Kong (HKU) and Tongji University
