@@ -24,13 +24,13 @@ redirect_from:
 
 **Service**
 
-* Paper Review
-- Journal Reviewer: Transportation Research Part B/D, Transportmetrica B
-- Conference Reviewer: International Conference of Transportation Professionals (CICTP), International Symposium on Transport Network Resilience (INSTR)
+### Paper Review 
+Journal Reviewer: Transportation Research Part B/D, Transportmetrica B
+Conference Reviewer: International Conference of Transportation Professionals (CICTP), International Symposium on Transport Network Resilience (INSTR)
 
-* Academic Event Coordination**
-- Coordinated regular group research seminars within the department
-- Organized collaborative workshops with other institutions, including the University of Hong Kong (HKU) and Tongji University
+### Academic Event Coordination
+  Coordinated regular group research seminars within the department
+  Organized collaborative workshops with other institutions, including the University of Hong Kong (HKU) and Tongji University
 
 **Skills**
 * Programming: Python, C++, C#, Java, Matlab, R, SQL, Mathematica
