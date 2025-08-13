@@ -37,4 +37,4 @@ Skills
 * Programming: Python, C++, C#, Java, Matlab, R, SQL, Mathematica
 * Optimization/Machine learning: Gurobi, Tensorflow, Pytorch, CPLEX
 * Professional Qualifications: CFA level I
-* Mathematical Modeling and Analysis: Optimization modeling, Stochastic analysis of dynamic and uncertain environments, Quantitative modeling for market microstructure analysis
+* Mathematical Modeling and Analysis: Optimization modeling, Stochastic analysis of dynamic and uncertain systems, Quantitative modeling for market microstructure analysis
