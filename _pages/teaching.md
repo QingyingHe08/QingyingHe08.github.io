@@ -7,7 +7,7 @@ author_profile: true
 
 ## At The Hong Kong Polytechnic University, 2022-
 
-###Teaching Assistant 
+### Teaching Assistant 
 * AAE3009 (Undergraduate course): Operations Research and Computational Analytics in Air Transport Operations (Semester 1, 2024/2025 and Semester 1, 2023/2024)
 * AAE6106 (PhD course): Networked Transportation and Air Traffic Systems (Semester 2, 2024/2025)
 
