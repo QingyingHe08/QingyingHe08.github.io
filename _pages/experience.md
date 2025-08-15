@@ -25,7 +25,7 @@ redirect_from:
 ## Service 
 
 ### Paper Review 
-* Journal Reviewer: Transportation Research Part B/D, Transportmetrica B
+* Journal Reviewer/Subreviewer: Transportation Research Part B/D, Transportmetrica B
 * Conference Reviewer: International Conference of Transportation Professionals (CICTP), International Symposium on Transport Network Resilience (INSTR)
 
 ### Academic Event Coordination
