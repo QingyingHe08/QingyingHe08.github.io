@@ -11,9 +11,9 @@ redirect_from:
 
 ## Education  
  
-* Ph.D in Transportation, The Hong Kong Polytechnic University, Dec 2025 (expected)
-* MSc. in Computational Mathematical Finance, The University of Edinburgh, 2019
-* BSc. in Mathematics and Applied Mathematics, Northeastern University, 2018
+* Ph.D. in Transportation, The Hong Kong Polytechnic University, Dec 2025 (expected)
+* MSc in Computational Mathematical Finance, The University of Edinburgh, 2019
+* BSc in Mathematics and Applied Mathematics, Northeastern University, 2018
 
 ## Selected Awards and Honors 
 
