@@ -20,7 +20,7 @@ redirect_from:
 * Winner, Best Paper Award: The 16th International Workshop on Computational Transportation Science (CTS 2025), 2025
 * Finalist, HKSTS–ATRS Best Student Paper Award: The 28th Air Transport Research Society World Conference, 2025
 * MSc Dissertation (awarded with distinction): Passive and Competitive Investment strategies, supervised by Prof. Gonçalo dos Reis, The University of Edinburgh, 2019
-* Postgraduate Scholarship (four consecutive years), The Hong Kong Polytechnic University, 2022-2026
+* Postgraduate Scholarship, The Hong Kong Polytechnic University, 2022-2026
 
 ## Service 
 
