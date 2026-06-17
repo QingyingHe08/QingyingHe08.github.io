@@ -20,6 +20,8 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 Journal Publication
 ----------
+
+* [7] **He, Q.**, Liu, W., Ye, H., Ma, Y. (2026) Real-time routing and scheduling of unmanned aerial and surface vehicles for maritime monitoring under travel time and demand uncertainty. Transportation Research Part C: Emerging Technologies, 190, 105785. ([Download](https://doi.org/10.1016/j.trc.2026.105785))
 * [6] Lyu, M., Liu, W., **He, Q.**, Wu, L. (2025) Urban food delivery service optimisation with coordinated delivery riders and drones. Transportation Research Part E: Logistics and Transportation Review, 204, 104412. ([Download](https://doi.org/10.1016/j.tre.2025.104412))
 * [5] **He, Q.**, Liu, W., Liu, T.L., Tian, Q. (2025) Robust coordinated path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring with travel time uncertainty. Transportation Research Part B: Methodological, 199, 103284. ([Download](https://doi.org/10.1016/j.trb.2025.103284))
 * [4] **He, Q.**, Liu, W., Xi, H. (2025) Dynamic electric vehicle fleets management problem for multi-service platforms with integrated ride-hailing, on-time delivery, and vehicle-to-grid services. Transportation Research Part B: Methodological, 199, 103281. ([Download](https://doi.org/10.1016/j.trb.2025.103281))
@@ -31,8 +33,7 @@ Journal Publication
 
 Papers Under Review and Working Papers
 -------
-* [4] **He, Q.**, Liu, W., Wu, L., Ma, Y., Liang, Z. Coordinated path planning of unmanned aerial vehicles and unmanned surface vehicles for maritime monitoring. To be submitted.
-* [3] **He, Q.**, Liu, W., Ye, H., Ma, Y. Real-time coordinated path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring under travel time and demand uncertainty. To be submitted.
+* [3] **He, Q.**, Liu, W., Wu, L., Ma, Y., Liang, Z. Coordinated path planning of unmanned aerial vehicles and unmanned surface vehicles for maritime monitoring. To be submitted.
 * [2] **He, Q.**, Liu, W. Sharing low-altitude urban airspace through a capacity-aware and incentive-compatible allocation mechanism for UAV operations. To be submitted.
 * [1] **He, Q.**, Liu, W. Dynamic optimization for coordinated unmanned aerial vehicles and autonomous ground vehicle operations for on-demand delivery. Working paper.
 
