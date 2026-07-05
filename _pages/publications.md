@@ -33,9 +33,9 @@ Journal Publication
 
 Papers Under Review and Working Papers
 -------
-* [3] **He, Q.**, Liu, W., Wu, L., Ma, Y., Liang, Z. Coordinated path planning of unmanned aerial vehicles and unmanned surface vehicles for maritime monitoring. To be submitted.
-* [2] **He, Q.**, Liu, W. Sharing low-altitude urban airspace through a capacity-aware and incentive-compatible allocation mechanism for UAV operations. To be submitted.
-* [1] **He, Q.**, Liu, W. Dynamic optimization for coordinated unmanned aerial vehicles and autonomous ground vehicle operations for on-demand delivery. Working paper.
+* [3] **He, Q.**, Wu, L., Liu, W., Li, C., Ma, Y., Liang, Z. Coordinated routing and scheduling of unmanned aerial vehicles and unmanned surface vehicles for maritime monitoring. Transportation Research Part C: Emerging Technologies, under review.
+* [2] **He, Q.**, Liu, W., Yang, H. Scalable management of unmanned aerial vehicle traffic in dense urban low-altitude airspace. Transportation Science, under review.
+* [1] **He, Q.**, Liu, W. Real-time pricing and operational coordination in multi-service electric ride-hailing networks. Transportation Science, under review.
 
 
 
